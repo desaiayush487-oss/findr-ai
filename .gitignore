@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment Variables
+.env
+.env.local
+
+# Build Outputs
+dist/
+build/
+
+# IDE / OS Files
+.DS_Store
+*.log
